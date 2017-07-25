@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-base:war">
+    <output-path>$PROJECT_DIR$/web-base/target</output-path>
+    <root id="archive" name="web-base-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="web-base:war exploded" />
+    </root>
+  </artifact>
+</component>

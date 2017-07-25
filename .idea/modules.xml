@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zhrey.iml" filepath="$PROJECT_DIR$/Zhrey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-base/web-base.iml" filepath="$PROJECT_DIR$/web-base/web-base.iml" />
+      <module fileurl="file://D:\Zhrey\Zhrey\web-base\web-code.iml" filepath="D:\Zhrey\Zhrey\web-base\web-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-note/web-note.iml" filepath="$PROJECT_DIR$/web-note/web-note.iml" />
+    </modules>
+  </component>
+</project>
