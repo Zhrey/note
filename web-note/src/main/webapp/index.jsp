@@ -9,5 +9,6 @@
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
+<h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
 </body>
 </html>
