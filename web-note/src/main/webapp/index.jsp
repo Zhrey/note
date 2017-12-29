@@ -5,7 +5,7 @@
 
 </head>
 <body>
-<h2>测试配置文件1</h2>
+<h2>测试配置文件2</h2>
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
 <h2><%=application.getInitParameter("configCharacterEncoding")%></h2>
